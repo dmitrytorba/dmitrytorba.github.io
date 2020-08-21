@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[11],{IRbh:function(n,t,_){"use strict";_.r(t);var e=_("q1tI"),i=_.n(e),o=(_("8Kt/"),_("MbLX"),i.a.createElement);t.default=function(){return o("div",null)}},UmGc:function(n,t,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/web-history",function(){return _("IRbh")}])}},[["UmGc",0,2,1,3]]]);
