@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{IRbh:function(n,t,e){"use strict";e.r(t);var i=e("q1tI"),o=e.n(i),u=(e("8Kt/"),e("MbLX"),o.a.createElement);t.default=function(){return u("div",null)}},UmGc:function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/web-history",function(){return e("IRbh")}])}},[["UmGc",1,0]]]);
